@@ -1,14 +1,17 @@
 # 19 Progressive Web Applications (PWA): Text Editor
 
-## Your Task
+## About this project
 
-## User Story
+## Use
 
-```md
-AS A developer
-I WANT to create notes or code snippets with or without an internet connection
-SO THAT I can reliably retrieve them for later use
-```
+- Deployed URL: https://mitsukaichi-jate-a4d41c9807d2.herokuapp.com/
+- Screenshot: ![screenshot](https://github.com/mitsukaichi/pwa-text-editor/assets/45612744/0782b423-5326-4939-83e0-cfd07fbc19e4)
+
+## Things I learnt from this challenge
+
+- Contents of beforeinstallprompt.event
+![screenshot](https://github.com/mitsukaichi/pwa-text-editor/assets/45612744/476dd065-7ccd-4df4-b1a7-3a1903bc00dd)
+
 
 ## Acceptance Criteria
 

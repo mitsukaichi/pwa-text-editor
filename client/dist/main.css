@@ -210,3 +210,7 @@ h1 {
   }
 }
 
+.hidden {
+  display: none;
+}
+

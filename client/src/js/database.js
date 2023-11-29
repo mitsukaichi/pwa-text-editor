@@ -30,7 +30,7 @@ export const getDb = async () => {
   const store = tx.objectStore('jate');
   const request = store.getAll();
   const result = await request;
-  if (result) {
+  if (result.length > 0) {
     const storedData = result[result.length-1].content;
     return storedData
   }
